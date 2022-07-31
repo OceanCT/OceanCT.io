@@ -1,7 +1,8 @@
 ---
 title: Install xelatex for chinese language support
 date: 2022-07-26 20:39:50
-tags:
+tags: Ubuntu
+categories: Ubuntu Settings
 ---
 # Why Xelatex?
 
